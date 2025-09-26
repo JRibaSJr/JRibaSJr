@@ -3,7 +3,7 @@
 ## Meu nome é Riba e meu nickname é JRibaSJr!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 ---
