@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atualmente trabalhando como:** Desenvolvedora Full Stack
+- 🔭 **Atualmente trabalhando como:** Desenvolvedor Full Stack
 - 🌱 **Atualmente aprendendo:** Java e Python
 - 💡 **Interessado em:** Desenvolvimento web, mobile e soluções inovadoras
 - 🎯 **Objetivo:** Criar soluções que façam a diferença na vida das pessoas
